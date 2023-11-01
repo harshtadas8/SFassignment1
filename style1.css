@@ -1,0 +1,22 @@
+h1{
+    color:rgb(237, 100, 100);
+}
+body{
+    background-color: rgb(170, 240, 227);
+    /* background-image: url('https://wallpaperaccess.com/full/127699.jpg'); */
+background-size: cover;}
+#intro {
+   vertical-align: middle;
+    font-family: cursive;
+}
+
+
+    
+
+pre{
+    color: chocolate;
+}
+#skills{
+    color: rgb(255, 0, 234);
+    
+}
